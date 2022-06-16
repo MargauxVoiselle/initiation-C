@@ -7,4 +7,6 @@ int main(){
     scanf("%d", &x);
     int resultat = addone(x);
     printf("%d", resultat);
+
+    return 0;
 }

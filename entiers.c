@@ -5,4 +5,6 @@ int main(){
         printf("%d\n", compteur);
         compteur++;
     }
+
+    return 0;
 }
